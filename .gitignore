@@ -1,4 +1,6 @@
+# Data files
+Electric_Vehicle_Population_Data.csv
+
+# Jupyter Notebook checkpoints
 .ipynb_checkpoints/
-*.csv
-__pycache__/
-.DS_Store
+*/.ipynb_checkpoints/
